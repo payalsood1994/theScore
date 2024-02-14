@@ -1,0 +1,11 @@
+{
+    "platformName": "Android",
+    "platformVersion": "10",
+    "app": "/Users/payal.sood229/Documents/theScoreAutomationFramework/app/android/theScore.apk",
+    "automationName": "UIAutomator2",
+    "appPackage": "com.fivemobile.thescore",
+    "appActivity": "com.fivemobile.thescore.ui.MainActivity",
+    "autoGrantPermissions": true,
+    "udid": "emulator-5554",
+    "newCommandTimeout": 300
+}
